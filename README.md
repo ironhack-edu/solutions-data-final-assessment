@@ -6,4 +6,4 @@
 - [Solution: Chapter 4 - version 1](solution-chapter-4-v1.ipynb)
 - [Solution: Chapter 4 - version 2](solution-chapter-4-v2.ipynb)
 - [Solution: Chapter 5 - version 1](solution-chapter-5-v1.ipynb)
-- [Solution: Chapter 4 - version 2](solution-chapter-5-v2.ipynb)
+- [Solution: Chapter 5 - version 2](solution-chapter-5-v2.ipynb)
